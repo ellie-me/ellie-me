@@ -40,8 +40,10 @@ I am currently working on my own startup, on a project I cannot publicly disclos
 	- Videogames
 	- Mobile Apps
 	- Web Apps
+	- Web scrapping apps
 	- Cybersecurity applications
 	- Interactive apps for marketing
+	- 3D Simulations
 </details>
 
 
