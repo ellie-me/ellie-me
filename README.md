@@ -1,14 +1,17 @@
-# Hey! I'm Eli :v:
 [![firsthelloworld](https://time-since-hello-world-8cu87k2ds-eli-me.vercel.app/api)](https://time-since-hello-world-8cu87k2ds-eli-me.vercel.app/api)
-[![twitter](https://img.shields.io/twitter/follow/eliDarkwood?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/EliDarkwood)
-[![github](https://img.shields.io/github/followers/eli-me?logo=github&style=plastic)](https://github.com/eli-me?tab=followers)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-### Thanks for stopping by!
-I am a self taught software engineer from the UK devoted to making apps and games for the betterment of humanity. I describe myself as a passionate and hardworking individual who loves art, code, sound and knowledge in general.
+# Hey there! 👋 I'm Ellie Menéndez :v:
 
-I am currently working on my own startup, on a project I cannot publicly disclose.
+
+## Full Stack Software Developer | Gamer | Entrepreneur
+
+### About Me
+
+🎮 Gamer | 🚀 Entrepreneur | 🧠 Deep Thinker | 🌐 World Explorer
 
 <details>
   <summary><b>:chart_with_upwards_trend: My Stats</b></summary><br/>
