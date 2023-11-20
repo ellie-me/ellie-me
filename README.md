@@ -4,59 +4,53 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-# Hey there! 👋 I'm Ellie Menéndez :v:
+# Hey there! 👋 I'm Ellie Menéndez :v: A Senior Full Stack Software Developer
 
+![meow](meow.gif)
 
-## Full Stack Software Developer | Gamer | Entrepreneur
+## About Me
+_"Code is poetry, and poetry has no boundaries."_
 
-### About Me
+🎹 Piano Player | 🌈 Transgender | 🥋 Wushu Enthusiast | 🎮 Gamer | 🤘 Goth | 🎵 Music Addict | 🚀 Entrepreneur | 🧠 Neurodivergent | 📚 Hobbyist Philosopher
 
-🎮 Gamer | 🚀 Entrepreneur | 🧠 Deep Thinker | 🌐 World Explorer
+I waltz through the intricacies of severe hyperactive **ADHD** and my melodic aversion to certain sounds (a.k.a. mysophonia). The former occasionally choreographs a delayed processing speed, a quirky feature beyond my control. So, when the technical assessment spotlight shines, I humbly ask for your understanding and a tad more time. Your virtuoso patience is sincerely cherished. 🎶✨
 
-<details>
-  <summary><b>:chart_with_upwards_trend: My Stats</b></summary><br/>
-	
-[![Eli 's github stats](https://github-readme-stats.vercel.app/api?username=eli-me&theme=synthwave)](https://github.com/eli-me/github-readme-stats)
-[![Eli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eli_me&theme=synthwave)](https://wakatime.com/@eli_me)
-</details>
+![nyanbinary](nyanbinary.gif)
 
-<details>
-  <summary><b>:book: What I am learning</b></summary><br/>
-	
-	- Datastructures and Algorithms
-	- Nuts and bolts behind a compiler
-	- LLVM
-	- Clean coding
-	- Project management & automation
-	- CI/CD
-	- DSP
-	- Cloud services and tools
-	- Rust
-	- Human languages
-</details>
+### 🛠️ Skills
+- **Programming Languages:** JavaScript, TypeScript, Python, C++, C#, Dart, Java, PHP
+- **Human Languages:** Spanish, English, Dutch
+- **Web Technologies:** React, WordPress, Node.js, Vue.js, WordPress, Express.js
+- **Tools:** My keyboard
+- **Game Engines:** Unreal Engine, Godot, Scirra Construct, Rpg Maker
+- **Databases**: Mariadb, MySQL, Postgress, Mongo, Firebase
+- **Text Editors:** Webstorm, PHPStorm, Rider, DataGrip, Pycharm Professional, Fleet, Pulsar, CLion (Sorry Visual Studio)
+- **Tabs or Spaces:** I use Tabs with 2 blank spaces
+- **Bracket Preference:** A combination of Allman Style with K&R for Lambdas works for my brain, not against
+- **IDE Theme:** Dracula (most developers will agree that it's the best dark theme)
+- **Methodologies:** Design Thinking, Agile/Scrum, Waterfall
+- **Project Management:** Sunsama, Notion, Gitkraken
 
-<details>
-  <summary><b>🚀 Software Built</b></summary><br/>
-	
-	- Discord bots
-	- CRM systems
-	- Videogames
-	- Mobile Apps
-	- Web Apps
-	- Web scrapping apps
-	- Cybersecurity applications
-	- Interactive apps for marketing
-	- 3D Simulations
-</details>
+### 🚀 Software Built
+- **CRM Web App:** for the South East London Chamber Of Commerce
+- **Particle Simulation Engine:** for the web with Pixi.Js
+- **Blackheath Village App:** for Android and iOS, serving up to 530 concurrent users per day
+- **Blackheath Village Local Manager:** A custom CMS for enterprise businesses
+- **Blackheath Village:** A complete ecosystem of multiple applications
+- **Boolean Algebra Decision Table Plugin:** for Unreal Engine 4
+- **Biometric University Degree Verification System:** 2 mobile apps, one backend with Express.js and one PWA
+- **Rebirth, The Rise of a Hero:** My first video game
+- **Discordabat:** An RTS built in a week, winner of the 2012 UCV Gamedev Contest
+- **Game Jams:** Home it crab, Fight to the light, Spirit Trap
+- **Toy Compiler:** Formula-based calculator with an AST tree and recursive descent parser
+- **Sparklysmile Dental Website:** Design overhaul
+- **Lots of WordPress Websites:** Lost count!
 
+### :chart_with_upwards_trend: My Wakatime Stats
+[![Ellie's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ellie_me&theme=synthwave)](https://wakatime.com/@ellie_me)
 
-<details>
-  <summary><b>:musical_score: Crazy project ideas I had and might work on the future: </b></summary><br/>
-	
-	- A computer OS for blind and disabled people
-	- A highly visual programming language based on UML charts with built-in support for state management and visualization of complex systems
-	- An audio player with the capability of mixing your favourite game soundtracks into different styles
-	- Standards rulebook for building human, ethical AI systems and simulations for future generations
-	- Design Software for tattoo artists
-	- Musical emotions AI
-</details>
+![kyubey-madoka](kyubey-madoka.gif)
+
+Keep coding magically! ✨
+
+Cogito, ergo sum. 🤖
