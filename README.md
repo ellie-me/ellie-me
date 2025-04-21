@@ -42,9 +42,9 @@ _"Code is poetry, and poetry has no boundaries."_
 - **Game Jams:** Home it crab, Fight to the light, Spirit Trap
 - **Toy Compiler:** Formula-based calculator with an AST tree and recursive descent parser
 - **Sparklysmile Dental Website:** Design overhaul
-- **Haven VCS** The future of storage for creatives
-- **Terrero & Gloria Play** The official wrestling app of canary island's sports
-- **One Chamber** a complete Wordpress solution with a full fledged CRM built for SoutheastLondon Chamber of Commerce
+- **Haven VCS:** The future of storage for creatives
+- **Terrero & Gloria Play:** The official wrestling app of canary island's sports
+- **One Chamber:** a complete Wordpress solution with a full fledged CRM built for SoutheastLondon Chamber of Commerce
 - **Lots of WordPress Websites:** Lost count!
 
 ### :chart_with_upwards_trend: My Wakatime Stats
