@@ -5,7 +5,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 # Hey there! I'm Eleonor (Ellie) Menéndez 🐇
-<img width="1920" height="360" alt="Eleonor-Github-Header" src="https://github.com/user-attachments/assets/a8a5e9ad-c3ea-4615-b596-f70fd6828dd3" />
+<a href="https://eleonor.me" target="_blank">
+  <img width="1920" height="360" alt="Eleonor-Github-Header" src="https://github.com/user-attachments/assets/a8a5e9ad-c3ea-4615-b596-f70fd6828dd3" />
+</a>
 
 ## Quick Links
 🦋 [Bluesky](https://bsky.app/profile/eleonor.me) - 🌐 [Blog](https://eleonor.me) - 🔗 [LinkedIn](https://www.linkedin.com/in/eleonor-me)
